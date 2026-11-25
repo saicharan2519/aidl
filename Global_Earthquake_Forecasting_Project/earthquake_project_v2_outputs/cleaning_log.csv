@@ -1,0 +1,8 @@
+,Step,Rows
+0,Raw rows downloaded,181601
+1,After dropping missing time/location/magnitude,181601
+2,After keeping type == 'earthquake',181601
+3,After coordinate range check,181601
+4,After magnitude range check (>= 4.5),181600
+5,After removing duplicates,181600
+6,After restricting to the study period,181600
